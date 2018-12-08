@@ -1,0 +1,1 @@
+obj-$(CONFIG_ENABLE_CHIP_MSG22XX)       += msg2xxx/
